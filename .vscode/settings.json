@@ -1,0 +1,21 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#43A047",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#43A04780",
+    "titleBar.inactiveForeground": "#FFFFFF",
+    "statusBar.background": "#43A047",
+    "statusBar.foreground": "#FFFFFF"
+  }
+}
