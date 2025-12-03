@@ -26,3 +26,4 @@ Thumbs.db
 # Project specific
 wallet_*.json
 *.log
+.env
